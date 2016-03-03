@@ -1,0 +1,17 @@
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\FirstApp.dll.config
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\FirstApp.dll
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\FirstApp.pdb
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Helpers.dll
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Mvc.dll
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Razor.dll
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Webpages.Deployment.dll
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Webpages.dll
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Webpages.Razor.dll
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Razor.xml
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Webpages.xml
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Webpages.Deployment.xml
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Webpages.Razor.xml
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Helpers.xml
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\bin\System.Web.Mvc.xml
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\obj\Debug\FirstApp.dll
+D:\MyStudy\WebProjects\MVC\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
