@@ -1,0 +1,7 @@
+﻿@model MVCAuction.Models.Auction
+           <div class="auction-tile">
+               <h4 class="title">Title: @Model.Title</h4>
+               <p class="start-date"> Start Time: @Model.StartTime</p>
+               <p class="prize"> Current prize: @Model.CurrentPrize.GetValueOrDefault(@Model.StartPrize).ToString("C")</p>
+           </div>
+

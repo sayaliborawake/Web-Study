@@ -1,0 +1,28 @@
+﻿@model IEnumerable<MVCAuction.Models.Auction>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Index";
+}
+@section Featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            this is section feature!!
+        </div>
+    </section>
+    }
+@section scripts {
+    @* this will be rendered in script section*@
+    }
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+
+@foreach (var item in Model) {
+    @Html.Partial("Partial1", item);
+}
+
+</table>
